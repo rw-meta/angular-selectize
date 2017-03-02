@@ -1,6 +1,6 @@
 /**
- * Angular Selectize2
- * https://github.com/machineboy2045/angular-selectize
+ * Angular Selectize3
+ * https://github.com/oakfield/angular-selectize
  **/
 
 angular.module('selectize', []).value('selectizeConfig', {}).directive("selectize", ['selectizeConfig', function(selectizeConfig) {
