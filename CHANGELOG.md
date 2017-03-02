@@ -1,3 +1,9 @@
+## 3.0.2 (2017-03-02)
+
+Changes:
+
+- Included fixes for issues #69, #110, #116, #121, and #125.
+
 ## 3.0.1 (2015-09-07)
 
 Documentation:
