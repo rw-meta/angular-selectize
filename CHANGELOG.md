@@ -1,3 +1,9 @@
+## 3.1.0 (2017-04-11)
+
+Changes:
+
+- Included typings.
+
 ## 3.0.2 (2017-03-02)
 
 Changes:

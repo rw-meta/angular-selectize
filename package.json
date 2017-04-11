@@ -1,6 +1,6 @@
 {
   "name": "angular-selectize3",
   "description": "A fork of angular-selectize2 with bug fixes. Angular-selectize is a directive for Brian Reavis's selectize jQuery plugin. It supports all of Selectize's features",
-  "version": "v3.0.2",
+  "version": "v3.1.0",
   "private": false
 }
